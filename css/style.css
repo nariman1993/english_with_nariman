@@ -264,12 +264,12 @@ a:focus {
 
 .common_style h3 {
   font-weight: 600;
-  color: #151516;
+  color: #fffc51;
 }
 
 .common_style p {
   font-weight: 600;
-  color: #032f67;
+  color: #fffd63;
   margin: 30px 0 50px 0;
 }
 
@@ -307,16 +307,17 @@ a:focus {
 
 
 .course-mini-description-section{
-	background-color: #c59aff6b;
+	background-color: #9600ff;
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-around;
 	width: 100%;
 	margin: 30px 0 30px 0;
+	color: #fff;
 }
 	
 .sub-section-course-mini{
-	border: 2px solid #c399f7;
+	border: 2px solid #bdbdbd;
 	width: 15%;
 	height: 100%;
 	margin: 10px 0;
@@ -331,7 +332,7 @@ a:focus {
 }
 
 .sub-section-course-mini-h1{
-	background-color: #98d85342;
+	background-color: #9e9a00;
 	margin: 25px 0 0 0;
 	padding: 10px;
 	font-family: 'Montserrat', sans-serif;
@@ -446,7 +447,7 @@ a:focus {
 
 .why_section {
   text-align: right;
-  background-color: #e638e6;
+  background-color: #ac36ff;
   padding: 50px;
 }
 
@@ -514,7 +515,7 @@ a:focus {
 
 .client_section h5 {
   font-size: 24px;
-  color: #326de5;
+  color: #fdd31d;
 }
 
 .client_section .row {
@@ -593,7 +594,7 @@ a:focus {
 .client_section .carousel-indicators li {
   width: 25px;
   height: 25px;
-  background-color: #6bd1bd;
+  background-color: #ac36ff;
   border-radius: 100%;
   opacity: 1;
 }
